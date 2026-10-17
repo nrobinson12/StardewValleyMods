@@ -1,5 +1,18 @@
 # Static Inventory Change Log
 
+## 2.0.0 (October 17, 2026)
+
+### Changed
+
+* Rewritten for Stardew Valley 1.6 using Harmony
+* Shifting the toolbar changes which row it shows; the inventory never moves
+* New items go to the toolbar first (except in menus)
+* Works in multiplayer
+
+### Removed
+
+* "Make current row first" button in options (no longer needed)
+
 ## 1.0.2 (February 7, 2024)
 
 ### Fixed

@@ -1,0 +1,10 @@
+{
+  "Name": "Auto Sort Chests",
+  "Author": "Dinotopea",
+  "Version": "1.0.0",
+  "Description": "Keep your chests sorted.",
+  "UniqueID": "Dinotopea.AutoSort",
+  "EntryDll": "AutoSort.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
